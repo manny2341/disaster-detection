@@ -1,0 +1,11 @@
+streamlit
+numpy
+rasterio
+matplotlib
+folium
+streamlit-folium
+planetary-computer
+pystac-client
+requests
+Pillow
+scipy
